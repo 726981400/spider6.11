@@ -1,0 +1,669 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script id="allmobilize" charset="utf-8" src="http://ysp.www.gov.cn/013582404bd78ad3c016b8fffefe6a9a/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp" /><link rel="alternate" media="handheld" href="#"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+ 
+应急管理
+_突发事件_中国政府网</title>
+<meta name="others" content="页面生成时间 2019-05-23 16:53:34" />
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="lanmu" content="突发事件">
+	<meta name="filepath" content="/yjgl/tfsj.htm">
+	<META name="catalog" content="c904">
+	<META name="filetype" content="0">
+	<META name="publishedtype" content="1">
+	<META name="pagetype" content="2">
+<link rel="stylesheet" type="text/css" href="/govweb/xhtml/css/master_cn_v1.2.css">
+<link rel="stylesheet" type="text/css" href="/govweb/xhtml/css/lists.css">
+</head>
+<body style="background:url(/govweb/xhtml/images/public_bg_det201402.jpg) no-repeat center 0;">
+<link href="/govweb/xhtml/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<div style="display: block;" id="gwdshare_s">
+  <div style="display: none;" id="gwdshare_l">
+    <div id="gwdshare_l_c">
+      <h6>分享到<b>&nbsp;</b></h6>
+      <ul>
+        <li><a href="#" class="gwds_weixin weixin MoreShareLink_24">微信</a></li>
+        <li><a href="#" class="gwds_tsina tsina MoreShareLink_24">新浪微博</a></li>
+        <li><a href="#" class="gwds_xinhua xinhua MoreShareLink_24">新华微博</a></li>
+        <li><a href="#" class="gwds_people people MoreShareLink_24">人民微博</a></li>
+        <li><a href="#" class="gwds_qzone qqkj MoreShareLink_24">QQ空间</a></li>
+        <li><a href="#" class="gwds_renren rrw MoreShareLink_24">人人网</a></li>
+        <li><a href="#" class="gwds_kaixin001 kxw MoreShareLink_24">开心网</a></li>
+        <li><a href="#" class="gwds_douban db MoreShareLink_24">豆瓣网</a></li>
+      </ul>
+      <p><a href="http://share.gwd.gov.cn/" class="goWebsite">分享</a></p>
+    </div>
+  </div>
+</div>
+<div id="HomePage">
+  <div class="spe-top">
+    <div class="main-colum">
+      <div class="language"><a href="http://www.gov.cn/" target="_blank">简体</a> | <a href="http://big5.gov.cn/" target="_blank">繁体</a> | <a href="http://english.gov.cn/" target="_blank">English</a></div>
+      <div class="topDate"><script type="text/javascript" language="JavaScript" src="/govweb/xhtml/js/gov_dates.js"></script><br>
+      </div>
+      <div class="topLink"><a href="http://www.gov.cn/public/yidongkehuduan.htm" target="_blank">客户端</a> | <a href="http://mail.gov.cn/" target="_blank">公务邮箱</a></div>
+      <div class="oldLink"><a href="http://www.gov.cn/huigu.htm" target="_blank">旧版回顾</a></div>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div class="public_head">
+    <div class="main-colum main-cloumdw">
+      <div class="gov-dhlj"><a href="http://www.gov.cn/" style="width:60px; height:60px; overflow:hidden; float:left " target="_blank">&nbsp;</a></div>
+      <div class="topSpace">
+        <div class="public_search">
+          <form method="get" action="http://new.sousuo.gov.cn/s.htm" id="topsearchForm" target="_blank">
+            <input name="t" value="govall" type="hidden">
+            <input class="text" name="q" type="text">
+            <input class="image" value="&nbsp;" type="submit">
+          </form>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <div class="topNav">
+        <div class="menuList">
+          <ul>
+            <li class=""><span class="m01"><a href="/guowuyuan/index.htm">国务院</a></span></li>
+            <li class=""><span class="m02"><a href="/xinwen/index.htm">新闻</a></span></li>
+            <li class=""><span class="m03"><a href="/zhuanti/index.htm">专题</a></span></li>
+            <li class=""><span class="m04"><a href="/zhengce/index.htm">政策</a></span></li>
+            <li class=""><span class="m05"><a href="/fuwu/index.htm">服务</a></span></li>
+            <li class=""><span class="m06"><a href="/wenzheng/index.htm">问政</a></span></li>
+            <li class=""><span class="m07"><a href="/shuju/index.htm">数据</a></span></li>
+            <li class=""><span class="m08"><a href="/guoqing/index.htm">国情</a></span></li>
+          </ul>
+          <div class="clear"></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+
+<!--头部结束-->
+<div class="BreadcrumbNav">
+		<div class="main-colum">
+<a href='/index.htm'  target="_blank">首页</a>>&nbsp;<a href='/yjgl/index.htm'  target="_blank">应急管理</a>>&nbsp;突发事件
+</div>
+	</div>
+	
+	<!--/面包屑-->
+	<div class="wrap">
+		<div class="frame-pane">
+			<div class="frame-top">&nbsp;</div>
+			<div class="list-pane inner-page">
+				<div class="pannel-title tit_s01">
+					<div class="title-inner"><span class="bg01">&nbsp;</span> <span class="tabg"><!--begin 259621-0-1-->突发事件<!--end 259621-0-1--> 
+						</span><span class="bg02">&nbsp;</span></div>
+					<span class="more">&nbsp;</span></div>
+				<div class="pannel-inner pubListBox01"><!--begin 259622-0-1-->
+					<ul class="list01">
+ 
+
+							<li><a href="http://www.gov.cn/gzdt/2009-09/15/content_1417910.htm" target="_blank"  >中央气象台发布台风红色紧急警报和暴雨橙色警报</a><span class="datetime">2009-09-15</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-08/12/content_1390156.htm" target="_blank"  >太湖东苕溪上游发生暴雨洪水 浙江实施紧急分洪</a><span class="datetime">2009-08-12</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-08/12/content_1390146.htm" target="_blank"  >安徽水阳江发生超保证水位洪水 抢险正有序开展</a><span class="datetime">2009-08-12</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-08/11/content_1389216.htm" target="_blank"  >台风“莫拉克”造成1100万人受灾8人死亡3人失踪</a><span class="datetime">2009-08-11</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-07/26/content_1375178.htm" target="_blank"  >地震局:7月26日9时零分台湾南投县发生5.3级地震</a><span class="datetime">2009-07-26</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-07/22/content_1371522.htm" target="_blank"  >云南省凤庆县发生山体滑坡 造成2人死亡12人失踪</a><span class="datetime">2009-07-22</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-07/05/content_1357746.htm" target="_blank"  >成昆线昆明铁路局管内遭遇泥石流 部分列车停运</a><span class="datetime">2009-07-05</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-06/24/content_1349428.htm" target="_blank"  >江西:强对流天气活动频繁 部分地区发生洪涝灾害</a><span class="datetime">2009-06-24</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-06/16/content_1341336.htm" target="_blank"  >重庆地勘局全力投入武隆抢险 专业人员参与施救</a><span class="datetime">2009-06-16</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-06/16/content_1341317.htm" target="_blank"  >武隆抢险面临严重次生地灾威胁 现场将严格防范</a><span class="datetime">2009-06-16</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-06/03/content_1330794.htm" target="_blank"  >江西省北部遭暴雨袭击 局部地区遭受山洪等灾害</a><span class="datetime">2009-06-03</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-06/03/content_1330752.htm" target="_blank"  >福建福州市新增1例输入性甲型H1N1流感确诊病例</a><span class="datetime">2009-06-03</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-05/30/content_1327647.htm" target="_blank"  >广东佛山市报告一例输入性甲型H1N1流感疑似病例</a><span class="datetime">2009-05-30</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-05/30/content_1327632.htm" target="_blank"  >卫生部：北京报告第6、7例甲型H1N1流感确诊病例</a><span class="datetime">2009-05-30</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-05/24/content_1323208.htm" target="_blank"  >广东省江门受暴雨袭击 全市逾25万亩农作物受灾</a><span class="datetime">2009-05-24</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-05/17/content_1316629.htm" target="_blank"  >卫生部通报：北京报告一例甲型H1N1流感确诊病例</a><span class="datetime">2009-05-17</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-04/23/content_1294100.htm" target="_blank"  >中央气象台橙色警报:北方出现今年第6次沙尘天气</a><span class="datetime">2009-04-23</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-03/18/content_1262116.htm" target="_blank"  >河北省赞皇县发生山林火情　过火面积已达400亩</a><span class="datetime">2009-03-18</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/25/content_1241717.htm" target="_blank"  >屯兰矿难原因初步调查结果：屯兰之痛 山西之悟</a><span class="datetime">2009-02-25</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-02/20/content_1237751.htm" target="_blank"  >20日18时02分新疆阿克苏地区柯坪发生5.2级地震</a><span class="datetime">2009-02-20</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/11/content_1228300.htm" target="_blank"  >和田墨玉县扎瓦乡发生H5N1亚型高致病性禽流感</a><span class="datetime">2009-02-11</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/09/content_1225480.htm" target="_blank"  >山西省洪洞县发生生猪疫情 导致1056头生猪死亡</a><span class="datetime">2009-02-09</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/09/content_1225352.htm" target="_blank"  >贵州贞丰非法爆竹生产点爆炸系使用违禁原料所致</a><span class="datetime">2009-02-09</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/09/content_1225342.htm" target="_blank"  >贵州发生因舞龙纠纷围攻县政府事件 事态已平息</a><span class="datetime">2009-02-09</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/08/content_1224651.htm" target="_blank"  >贵州贞丰县一非法爆竹生产点爆炸6人死亡9人受伤</a><span class="datetime">2009-02-08</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/07/content_1224450.htm" target="_blank"  >香港某公司三名中国船员在作业时因缺氧窒息死亡</a><span class="datetime">2009-02-07</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/07/content_1224338.htm" target="_blank"  >大雾造成乌鲁木齐国际机场进出港航班大面积延误</a><span class="datetime">2009-02-07</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/07/content_1224079.htm" target="_blank"  >陕西靖边群众演艺活动中观礼台倒塌致40余人受伤</a><span class="datetime">2009-02-07</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/06/content_1223502.htm" target="_blank"  >大雾导致上海港长江口水域近300艘各类船舶滞留</a><span class="datetime">2009-02-06</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/05/content_1222699.htm" target="_blank"  >卡塔尔国际航班高空遇险成功迫降新疆喀什机场</a><span class="datetime">2009-02-05</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/05/content_1222404.htm" target="_blank"  >武汉汉正街大火明火基本扑灭 目前至少10人受伤</a><span class="datetime">2009-02-05</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/01/content_1218906.htm" target="_blank"  >福建长乐发生"1·31"火灾的酒吧业主被警方控制</a><span class="datetime">2009-02-01</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-02/01/content_1218211.htm" target="_blank"  >福建长乐市拉丁酒吧发生特大火灾 造成15人死亡</a><span class="datetime">2009-02-01</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-01/31/content_1218084.htm" target="_blank"  >湖南省溆浦县确诊一例人感染高致病性禽流感病例</a><span class="datetime">2009-01-31</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-01/31/content_1217968.htm" target="_blank"  >哈尔滨民宅火灾无人员伤亡　着火建筑破坏较严重</a><span class="datetime">2009-01-31</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-01/31/content_1217841.htm" target="_blank"  >中国游客30日在美国亚利桑那州遭遇车祸 7死7伤</a><span class="datetime">2009-01-31</span></li>
+
+							<li><a href="http://www.gov.cn/jrzg/2009-01/29/content_1217005.htm" target="_blank"  >大雾导致上海市区往返崇明三岛春运客轮全线停航</a><span class="datetime">2009-01-29</span></li>
+
+							<li><a href="/yjgl/2009-01/27/content_1215912.htm" target="_blank"  >广西确诊1例人感染高致病性禽流感病例 患者已死</a><span class="datetime">2009-01-27</span></li>
+
+							<li><a href="http://www.gov.cn/gzdt/2009-01/24/content_1214973.htm" target="_blank"  >新疆维吾尔自治区确诊一例人感染高致病性禽流感</a><span class="datetime">2009-01-24</span></li>
+
+							<li><a href="/yjgl/2009-01/19/content_1209483.htm" target="_blank"  >上海发生一起河道淤泥堆场坍塌事故尚无人员伤亡</a><span class="datetime">2009-01-19</span></li>
+
+							<li><a href="/yjgl/2009-01/14/content_1205589.htm" target="_blank"  >上海松江：水厂泵房设备故障导致降压供水或停水</a><span class="datetime">2009-01-14</span></li>
+
+							<li><a href="/yjgl/2009-01/09/content_1200914.htm" target="_blank"  >贵州安顺煤矿透水事故已发现4人死亡仍有9人失踪</a><span class="datetime">2009-01-09</span></li>
+
+							<li><a href="/yjgl/2009-01/06/content_1196984.htm" target="_blank"  >广州市地铁工地发生房屋倾斜事故 没有人员伤亡</a><span class="datetime">2009-01-06</span></li>
+
+							<li><a href="/yjgl/2009-01/05/content_1196276.htm" target="_blank"  >贵州一大客车5日上午发生翻车事故 造成13人死亡</a><span class="datetime">2009-01-05</span></li>
+
+							<li><a href="/yjgl/2008-12/31/content_1192966.htm" target="_blank"  >贵州安顺市一乡镇煤矿发生透水事故13人被困井下</a><span class="datetime">2008-12-31</span></li>
+
+							<li><a href="/yjgl/2008-12/27/content_1189264.htm" target="_blank"  >河南濮阳发生爆炸事故15死爆炸品初步确定为雷管</a><span class="datetime">2008-12-27</span></li>
+
+							<li><a href="/yjgl/2008-12/27/content_1189099.htm" target="_blank"  >两名中国游客在南非溺水身亡 警方目前正在调查</a><span class="datetime">2008-12-27</span></li>
+
+							<li><a href="/yjgl/2008-12/26/content_1189069.htm" target="_blank"  >云南瑞丽地震19人受伤 紧急转移受灾群众9496人</a><span class="datetime">2008-12-26</span></li>
+
+							<li><a href="/yjgl/2008-12/09/content_1173176.htm" target="_blank"  >受大雾影响乌鲁木齐国际机场24个航班备降或延误</a><span class="datetime">2008-12-09</span></li>
+
+							<li><a href="/yjgl/2008-12/03/content_1166619.htm" target="_blank"  >香港验出一例从内地进口鸡蛋三聚氰胺含量超标</a><span class="datetime">2008-12-03</span></li>
+
+							<li><a href="/yjgl/2008-12/01/content_1164801.htm" target="_blank"  >三名救援队员在黑龙江七台河昌隆煤矿事故中遇难</a><span class="datetime">2008-12-01</span></li>
+
+							<li><a href="/yjgl/2008-11/30/content_1164383.htm" target="_blank"  >黑龙江七台河市一煤矿发生爆炸 10余人下落不明</a><span class="datetime">2008-11-30</span></li>
+
+							<li><a href="/yjgl/2008-11/25/content_1159141.htm" target="_blank"  >湖北东部地区遭遇大雾袭击 部分高速路口封闭</a><span class="datetime">2008-11-25</span></li>
+
+							<li><a href="/yjgl/2008-11/24/content_1158093.htm" target="_blank"  >大雾致吐乌大高等级公路多起交通事故 已2死多伤</a><span class="datetime">2008-11-24</span></li>
+
+							<li><a href="/yjgl/2008-11/23/content_1157164.htm" target="_blank"  >广西凤山发生严重地质灾害 现造成1死6伤5人被埋</a><span class="datetime">2008-11-23</span></li>
+
+							<li><a href="/yjgl/2008-11/16/content_1150680.htm" target="_blank"  >同三高速方正至依兰路段数百辆大型货车堵塞滞留</a><span class="datetime">2008-11-16</span></li>
+
+							<li><a href="/yjgl/2008-11/15/content_1150327.htm" target="_blank"  >同三公路依兰段发生交通事故 11人死亡39人受伤</a><span class="datetime">2008-11-15</span></li>
+
+							<li><a href="/yjgl/2008-11/15/content_1150187.htm" target="_blank"  >杭州地铁工地发生塌陷事故 造成1人死亡16人失踪</a><span class="datetime">2008-11-15</span></li>
+
+							<li><a href="/yjgl/2008-11/14/content_1149342.htm" target="_blank"  >新疆大风造成百余列货运列车先后滞留甘肃境内</a><span class="datetime">2008-11-14</span></li>
+
+							<li><a href="/yjgl/2008-11/14/content_1149218.htm" target="_blank"  >余杭码头装载浓硫酸船只沉没 运河水质基本正常</a><span class="datetime">2008-11-14</span></li>
+	
+
+					</ul>
+				</div>
+			</div>
+			<div class="frame-bot">&nbsp;</div>
+		</div>
+	</div>
+<script type="text/javascript" src="/govweb/xhtml/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+	$(".list01 li:nth-child(6n)").addClass("line");
+	$(".list01 li:last").addClass("line");
+</script>
+<script type="text/javascript">
+        var gwdshare = gwdshare || { version: "1.0", udata: "type=tools&amp;uid=GWD-801026", pageFilter: "", jsLoaded: false };
+        (function () {
+            function async_load() {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = '//static.gridsumdissector.com/zheng_fen_xiang/scripts/gwdshareasync.min.js';
+                var x = document.getElementsByTagName('script'), y = x[x.length - 1];
+                y.parentNode.appendChild(s);
+            }
+            if (!gwdshare.jsLoaded) {
+                if (window.attachEvent) window.attachEvent('onload', async_load);
+                else window.addEventListener('load', async_load, false);
+                gwdshare.jsLoaded = true;
+            }
+        })();
+    </script>
+
+
+<style type="text/css">
+.main-colum {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 1020px;
+}
+</style>
+
+<div class="public_foot">
+	<div class="main-colum">
+		<div class="cate01"><span><a href="http://www.npc.gov.cn/" target="_blank">全国人大</a></span><span><a href="http://www.cppcc.gov.cn/" target="_blank">全国政协</a></span><span><a href="http://www.court.gov.cn/" target="_blank">最高法院</a></span><span><a href="http://www.spp.gov.cn/" target="_blank">最高检察院</a></span></div>
+		<div class="cate02">
+			<ul>
+				<li>
+<select name="select1" size="1" onchange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0" class="wipt" id="Select1">
+<option selected="selected">国务院部门网站</option>
+<option value="http://www.mfa.gov.cn">外交部</option>
+<option value="http://www.mod.gov.cn/">国防部</option>
+<option value="http://www.ndrc.gov.cn">发展改革委</option>
+<option value="http://www.moe.gov.cn">教育部</option>
+<option value="http://www.most.gov.cn">科技部</option>
+<option value="http://www.miit.gov.cn/">工业和信息化部</option>
+<option value="http://www.seac.gov.cn">国家民委</option>
+<option value="http://www.mps.gov.cn">公安部</option>
+<option value="http://www.ccdi.gov.cn">监察部</option>
+<option value="http://www.mca.gov.cn">民政部</option>
+<option value="http://www.moj.gov.cn/">司法部</option>
+<option value="http://www.mof.gov.cn">财政部</option>
+<option value="http://www.mohrss.gov.cn/">人力资源社会保障部</option>
+<option value="http://www.mlr.gov.cn/">国土资源部</option>
+<option value="http://www.mep.gov.cn/">环境保护部</option>
+<option value="http://www.mohurd.gov.cn/">住房城乡建设部</option>
+<option value="http://www.moc.gov.cn/">交通运输部</option>
+<option value="http://www.mwr.gov.cn/">水利部</option>
+<option value="http://www.moa.gov.cn/">农业部</option>
+<option value="http://www.mofcom.gov.cn/">商务部</option>
+<option value="http://www.mcprc.gov.cn/">文化部</option>
+<option value="http://www.nhfpc.gov.cn/">卫生计生委</option>
+<option value="http://www.pbc.gov.cn/">人民银行</option>
+<option value="http://www.audit.gov.cn/">审计署</option>
+<option value="http://www.china-language.gov.cn/">国家语委</option>
+<option value="http://www.cnsa.gov.cn">航天局</option>
+<option value="http://www.caea.gov.cn">原子能机构</option>
+<option value="http://www.sasac.gov.cn/">国资委</option>
+<option value="http://www.customs.gov.cn/">海关总署</option>
+<option value="http://www.chinatax.gov.cn/">税务总局</option>
+<option value="http://www.saic.gov.cn/">工商总局</option>
+<option value="http://www.aqsiq.gov.cn/">质检总局</option>
+<option value="http://国家新闻出版广电总局.com">新闻出版广电总局</option>
+<option value="http://www.sport.gov.cn/">体育总局</option>
+<option value="http://www.chinasafety.gov.cn/">安全监管总局</option>
+<option value="http://www.sda.gov.cn/WS01/CL0001/">食品药品监管总局</option>
+<option value="http://www.stats.gov.cn/">统计局</option>
+<option value="http://www.forestry.gov.cn/">林业局</option>
+<option value="http://www.sipo.gov.cn/">知识产权局</option>
+<option value="http://www.cnta.gov.cn/">旅游局</option>
+<option value="http://www.sara.gov.cn/">宗教局</option>
+<option value="http://www.counsellor.gov.cn/">参事室</option>
+<option value="http://www.ggj.gov.cn/">国管局</option>
+<option value="http://www.ncac.gov.cn/">版权局</option>
+<option value="http://www.gqb.gov.cn/">侨办</option>
+<option value="http://www.hmo.gov.cn/">港澳办</option>
+<option value="http://www.chinalaw.gov.cn/">法制办</option>
+<option value="http://www.gov.cn/guoqing/2005-12/26/content_2652073.htm">国研室</option>
+<option value="http://www.gwytb.gov.cn/">台办</option>
+<option value="http://www.scio.gov.cn/">新闻办</option>
+<option value="http://www.xinhuanet.com/">新华社</option>
+<option value="http://www.cas.cn/">中科院</option>
+<option value="http://www.cssn.cn/">社科院</option>
+<option value="http://www.cae.cn/">工程院</option>
+<option value="http://www.drc.gov.cn/">发展研究中心</option>
+<option value="http://www.nsa.gov.cn/">行政学院</option>
+<option value="http://www.cea.gov.cn/">地震局</option>
+<option value="http://www.cma.gov.cn/">气象局</option>
+<option value="http://www.cbrc.gov.cn/">银监会</option>
+<option value="http://www.csrc.gov.cn/">证监会</option>
+<option value="http://www.circ.gov.cn/">保监会</option>
+<option value="http://www.ssf.gov.cn/">社保基金会</option>
+<option value="http://www.nsfc.gov.cn/">自然科学基金会</option>
+<option value="http://www.gjxfj.gov.cn/">信访局</option>
+<option value="http://www.chinagrain.gov.cn/">粮食局</option>
+<option value="http://www.nea.gov.cn/">能源局</option>
+<option value="http://www.sastind.gov.cn/">国防科工局</option>
+<option value="http://www.tobacco.gov.cn/">烟草局</option>
+<option value="http://www.safea.gov.cn/">外专局</option>
+<option value="http://www.scs.gov.cn/">公务员局</option>
+<option value="http://www.soa.gov.cn/">海洋局</option>
+<option value="http://www.sbsm.gov.cn/">测绘地信局</option>
+<option value="http://www.nra.gov.cn/">铁路局</option>
+<option value="http://www.caac.gov.cn/">民航局</option>
+<option value="http://www.post.gov.cn/">邮政局</option>
+<option value="http://www.sach.gov.cn/">文物局</option>
+<option value="http://www.satcm.gov.cn/">中医药局</option>
+<option value="http://www.safe.gov.cn/">外汇局</option>
+<option value="http://www.chinacoal-safety.gov.cn/mkaj/">煤矿安监局</option>
+<option value="http://www.saac.gov.cn/">档案局</option>
+<option value="http://www.oscca.gov.cn/">密码局</option>
+<option value="http://www.cpad.gov.cn/">扶贫办</option>
+<option value="http://www.3g.gov.cn/index.ycs">三峡办</option>
+<option value="http://www.nsbd.gov.cn/">南水北调办</option>
+	</select>
+				</li>
+				<li>
+<select name="select2" size="1" onchange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0;this.selectedIndex=0" class="wipt" id="Select2">
+<option selected="selected">地方政府网站</option>
+<option value="http://www.beijing.gov.cn/">北京</option>
+<option value="http://www.tj.gov.cn/">天津</option>
+<option value="http://www.hebei.gov.cn/">河北</option>
+<option value="http://www.shanxigov.cn/">山西</option>
+<option value="http://www.nmg.gov.cn/">内蒙古</option>
+<option value="http://www.ln.gov.cn">辽宁</option>
+<option value="http://www.jl.gov.cn">吉林</option>
+<option value="http://www.hlj.gov.cn">黑龙江</option>
+<option value="http://www.shanghai.gov.cn/">上海</option>
+<option value="http://www.jiangsu.gov.cn/">江苏</option>
+<option value="http://www.zhejiang.gov.cn">浙江</option>
+<option value="http://www.ah.gov.cn/">安徽</option>
+<option value="http://www.fujian.gov.cn">福建</option>
+<option value="http://www.jiangxi.gov.cn">江西</option>
+<option value="http://www.shandong.gov.cn/">山东</option>
+<option value="http://www.henan.gov.cn/">河南</option>
+<option value="http://www.hubei.gov.cn/">湖北</option>
+<option value="http://www.hunan.gov.cn/">湖南</option>
+<option value="http://www.gd.gov.cn/">广东</option>
+<option value="http://www.gxzf.gov.cn/">广西</option>
+<option value="http://www.hainan.gov.cn/">海南</option>
+<option value="http://www.cq.gov.cn/">重庆</option>
+<option value="http://www.sc.gov.cn">四川</option>
+<option value="http://www.gzgov.gov.cn/">贵州</option>
+<option value="http://www.yn.gov.cn/">云南</option>
+<option value="http://www.xizang.gov.cn/">西藏</option>
+<option value="http://www.shaanxi.gov.cn/">陕西</option>
+<option value="http://www.gansu.gov.cn/">甘肃</option>
+<option value="http://www.qh.gov.cn/">青海</option>
+<option value="http://www.nx.gov.cn/">宁夏</option>
+<option value="http://www.xinjiang.gov.cn/">新疆</option>
+<option value="http://www.gov.hk/">香港</option>
+<option value="http://www.gov.mo/">澳门</option>
+<option>台湾</option>
+<option value="http://www.xjbt.gov.cn/">新疆生产建设兵团</option>
+</select>
+				</li>
+				<li>
+<select name="select" size="1" onchange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0" class="wipt" id="Select2">
+<option selected="selected">驻港澳机构网站</option>
+<option value="http://www.locpg.gov.cn/">中央政府驻港联络办</option>
+<option value="http://www.zlb.gov.cn/">中央政府驻澳门联络办</option>
+</select>
+				</li>
+				<li>
+<select name="select3" size="1" onchange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0" class="wipt" id="Select2">
+	<!--驻外使领馆网站起分类作用-->
+	<option selected="selected">驻外机构</option>
+	<option value="http://www.fmprc.gov.cn/web/zwjg_674741/zwsg_674743/yz_674745/">驻外使馆
+ </option>
+	<option value="http://www.fmprc.gov.cn/web/zwjg_674741/zwzlg_674757/yz_674759/">驻外总领馆
+ </option>
+	<option value="http://www.fmprc.gov.cn/web/zwjg_674741/zwtc_674771/">驻外团、处 </option>
+	
+</select>
+				</li>
+				<li>
+<select name="select4" size="1" onchange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0" class="wipt" id="Select2">
+	<option selected="selected">新闻媒体网站</option>
+	<option value="http://www.people.com.cn/">人民日报</option>
+	<option value="http://www.xinhuanet.com//">新华社</option>
+	<option value="http://www.china.com.cn/">中国网</option>
+	<option value="http://www.cctv.com/">中央电视台</option>
+	<option value="http://www.qstheory.cn/">求是</option>
+	<option value="http://www.chinadaily.com.cn/gb/worldrep/index.html">中国日报</option>
+	<option value="http://www.cnr.cn/">中国广播网</option>
+	<option value="http://gb.cri.cn/">中国国际广播电台</option>
+	<option value="http://www.cyol.net/">中青报</option>
+	<option value="http://www.gmw.cn/">光明日报</option>
+	<option value="http://www.ce.cn/">经济日报</option>
+  </select>
+			</li>
+			<li>
+<select name="select" size="1" onChange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0" class=wipt id="Select2" style="width:130px;">
+	<option>中央企业网站</option>
+	<option value="http://www.cnnc.com.cn/">中国核工业集团公司</option>
+	<option value="http://www.cnecc.com/">中国核工业建设集团公司</option>
+	<option value="http://www.spacechina.com/">中国航天科技集团公司</option>
+	<option value="http://www.casic.com.cn/">中国航天科工集团公司</option>
+	<option value="http://www.avic.com.cn/">中国航空工业集团公司</option>
+	<option value="http://www.cssc.net.cn/">中国船舶工业集团公司</option>
+	<option value="http://www.cssc.net.cn/">中国船舶重工集团公司</option>
+	<option value="http://www.cngc.com.cn/">中国兵器工业集团公司</option>
+	<option value="http://www.csgc.com.cn/">中国兵器装备集团公司</option>
+	<option value="http://www.cetc.com.cn/">中国电子科技集团公司</option>
+	<option value="http://www.cnpc.com.cn/">中国石油天然气集团公司</option>
+	<option value="http://www.sinopecgroup.com/">中国石油化工集团公司</option>
+	<option value="http://www.cnooc.com.cn/">中国海洋石油总公司</option>
+	<option value="http://www.sgcc.com.cn/">国家电网公司</option>
+	<option value="http://www.csg.cn/">中国南方电网有限责任公司</option>
+	<option value="http://www.chng.com.cn/">中国华能集团公司</option>
+	<option value="http://www.china-cdt.com/">中国大唐集团公司</option>
+	<option value="http://www.chd.com.cn/">中国华电集团公司</option>
+	<option value="http://www.cgdc.com.cn/">中国国电集团公司</option>
+	<option value="http://www.spic.com.cn/">中国电力投资集团公司</option>
+	<option value="http://www.ctgpc.com.cn/">中国长江三峡工程开发总公司</option>
+	<option value="http://www.shenhuagroup.com.cn/">神华集团有限责任公司</option>
+	<option value="http://www.chinatelecom.com.cn/">中国电信集团公司</option>
+	<option value="http://www.chinaunicom.com.cn/">中国联合网络通信集团公司</option>
+	<option value="http://www.10086.cn/">中国移动通信集团公司</option>
+	<option value="http://www.cec.com.cn/">中国电子信息产业集团公司</option>
+	<option value="http://www.faw.com.cn/">中国第一汽车集团公司</option>
+	<option value="http://www.dfmc.com.cn/">东风汽车公司</option>
+	<option value="http://www.cfhi.com/">中国第一重型机械集团公司</option>
+	<option value="http://www.sinomach.com.cn/">中国机械工业集团有限公司</option>
+	<option value="http://www.harbin-electric.com/">哈尔滨电气集团公司</option>
+	<option value="http://www.dongfang.com/">中国东方电气集团公司</option>
+	<option value="http://www.ansteelgroup.com/">鞍山钢铁集团公司</option>
+	<option value="http://www.baosteel.com/">宝钢集团有限公司</option>
+	<option value="http://www.wisco.com.cn/">武汉钢铁（集团）公司</option>
+	<option value="http://www.chalco.com.cn/">中国铝业公司</option>
+	<option>中国远洋运输（集团）总公司</option>
+	<option>中国海运（集团）总公司</option>
+	<option value="http://www.airchinagroup.com/">中国航空集团公司</option>
+	<option value="http://www.ce-air.com/" value="http://www.csair.cn/">中国南方航空集团公司</option>
+	<option value="http://www.sinochem.com/">中国中化集团公司</option>
+	<option>中粮集团有限公司</option>
+	<option value="http://www.minmetals.com.cn/">中国五矿集团公司</option>
+	<option value="http://www.genertec.com.cn/">中国通用技术（集团）控股有限责任公司</option>
+	<option value="http://www.cscec.com/">中国建筑工程总公司</option>
+	<option value="http://www.sinograin.com.cn/">中国储备粮管理总公司</option>
+	<option value="http://www.sdic.com.cn/">国家开发投资公司</option>
+	<option value="http://www.cmhk.com/">招商局集团有限公司</option>
+	<option value="http://www.crc.com.hk/">华润（集团）有限公司</option>
+	<option value="http://www.hkcts.com/">中国港中旅集团公司[香港中旅（集团）有限公司]</option>
+	<option value="http://www.comac.cc/">中国商用飞机有限责任公司</option>
+	<option value="http://www.cecic.com.cn/">中国节能环保集团公司</option>
+	<option value="http://www.ciecc.com.cn/">中国国际工程咨询公司</option>
+	<option value="http://www.cctgroup.com.cn/">中国诚通控股公司</option>
+	<option value="http://www.chinacoal.com/">中国中煤能源集团公司</option>
+	<option value="http://www.ccteg.cn/">中国煤炭科工集团有限公司</option>
+	<option value="http://www.cam.com.cn/">机械科学研究总院</option>        
+	<option value="http://www.sinosteel.com/">中国中钢集团公司</option>
+	<option value="http://www.mcc.com.cn/">中国冶金科工集团公司</option>
+	<option value="http://www.cisri.com.cn/">中国钢研科技集团公司</option>
+	<option value="http://www.chemchina.com.cn/">中国化工集团公司</option>
+	<option value="http://www.cncec.cn/">中国化学工程集团公司</option>
+	<option value="http://www.sinolight.cn/">中国轻工集团公司</option>
+	<option value="http://www.cnacgc.com/">中国工艺美术（集团）公司</option>
+	<option value="http://www.chinasalt.com.cn/">中国盐业总公司</option>
+	<option value="http://www.chtgc.com/">中国恒天集团公司</option>
+	<option value="http://www.sinoma.cn/">中国中材集团公司</option>
+	<option value="http://www.cnbm.com.cn/">中国建筑材料集团公司</option>
+	<option value="http://www.cnmc.com.cn/">中国有色矿业集团有限公司</option>
+	<option value="http://www.grinm.com/">北京有色金属研究总院</option>
+	<option value="http://www.bgrimm.com/">北京矿冶研究总院</option>
+	<option value="http://www.ciic.com.cn/">中国国际技术智力合作公司</option>
+	<option value="http://www.cabr.com.cn/">中国建筑科学研究院</option>
+	<option value="http://www.crrcgc.cc/">中国中车集团公司</option>
+	<option value="http://www.crsc.cn/">中国铁路通信信号集团公司</option>
+	<option value="http://www.crecg.com/">中国铁路工程总公司</option>
+	<option value="http://www.crcc.cn/">中国铁道建筑总公司</option>
+	<option value="http://www.ccgrp.com.cn/">中国交通建设集团有限公司</option>
+	<option value="http://www.potevio.com/">中国普天信息产业集团公司</option>
+	<option value="http://www.datanggroup.cn/">电信科学技术研究院</option>
+	<option value="http://www.cnadc.com.cn/">中国农业发展集团总公司</option>
+	<option value="http://www.chinatex.com/">中国中纺集团公司</option>
+	<option value="http://www.chinasilk.com/">中国中丝集团公司</option>
+	<option value="http://www.cfgc.cn/">中国林业集团公司</option>
+	<option value="http://www.sinopharm.com/">中国医药集团总公司</option>
+	<option value="http://www.citsgroup.com.cn/">中国国旅集团公司</option>
+	<option value="http://www.poly.com.cn/">中国保利集团公司</option>
+	<option value="http://www.cadreg.com.cn/">中国建筑设计研究院</option>
+	<option value="http://www.cmgb.com.cn/">中国冶金地质总局</option>
+	<option value="http://www.ccgc.cn/">中国煤炭地质总局</option>
+	<option value="http://www.xxcig.com/">新兴际华集团有限公司</option>
+	<option value="http://www.travelsky.net/">中国民航信息集团公司</option>
+	<option value="http://www.cnaf.com/"> 中国航空油料集团公司</option>
+	<option value="http://www.casc.com.cn/">中国航空器材集团公司</option> 
+	<option value="http://www.zhongguodianjian.com/">中国电力建设集团有限公司</option>
+	<option value="http://www.ceec.net.cn/">中国能源建设集团有限公司</option>
+	<option value="http://www.chinagoldgroup.com/">中国黄金集团公司</option>
+	<option value="http://www.cncrc.com.cn/?lang=cn">中国储备棉管理总公司</option>
+	<option value="http://www.cgnpc.com.cn/">中国广核集团有限公司</option>
+	<option value="http://www.hualu.com.cn/">中国华录集团有限公司</option>
+	<option value="http://www.alcatel-sbell.com.cn/">上海贝尔股份有限公司</option>
+	<option value="http://www.wri.com.cn/">武汉邮电科学研究院</option>
+	<option value="http://www.chinaoct.com/">华侨城集团公司</option>
+	<option>南光（集团）有限公司</option>
+	<option>珠海振戎公司</option>
+	<option value="http://www.xd.com.cn/">中国西电集团公司</option>
+	<option value="http://www.crmsc.com.cn/">中国铁路物资（集团）总公司</option>
+	<option value="http://www.crhc.cn/">中国国新控股有限责任公司</option>        
+  </select>
+				</li>
+				<li style="margin:0;padding:0;">
+<select name="select" size="1" onchange="javascript:window.open(this.options[this.selectedIndex].value);this.selectedIndex=0" class="wipt" id="Select2" style="width:120px;">
+<option selected="selected">有 关 单 位</option>
+<option value="http://www.chinacoop.gov.cn/">供销总社</option>
+<option value="http://www.cpasonline.org.cn/gb/">中国行政管理学会</option>
+<option value="http://www.zycg.gov.cn/">中央政府采购</option>
+<option value="http://www.chinagov.cn/">国家域名注册管理网</option>
+<option value="http://www.cdpf.org.cn/">中国残疾人联合会</option>
+</select>
+				</li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+		<div class="copy" style="width:484px;margin:0px auto;clear:both;">
+		<div style="float:left;width:100px; line-height:24px; vertical-align:middle;"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='/govweb/xhtml/js/CA330000000406721630004.js' type='text/javascript'%3E%3C/script%3E"));</script></div>
+<div style="width:384px; float:right;padding-top:15px;">版权所有：<a href="http://www.gov.cn/">中国政府网</a> | <a href="http://www.gov.cn/foot/2014-05/19/content_2681922.htm" target="_blank">关于我们</a> | <a href="http://www.gov.cn/foot/2014-02/23/content_2619291.htm" target="_blank">网站声明</a> | <a href="/map.htm" target="_blank">网站地图</a> | <a href="http://www.gov.cn/foot/2014-02/23/content_2619290.htm" target="_blank">联系我们</a><br>
+京ICP备05070218号 中文域名：中国政府网.政务</div>
+		</div>
+	</div>
+</div>
+<div style="right: 51px; display: block;" class="gov_weixin_share">
+<div style="TEXT-ALIGN: right; HEIGHT: 15px; FONT-SIZE: 12px; PADDING-TOP: 5px" class="closeBtn"><img style=" vertical-align:top;CURSOR: pointer" src="/govweb/xhtml/images/public/close140403.gif"></div>
+<div class="gov_wx fixed"><img src="/govweb/xhtml/images/public/public_weixin.jpg" style=" vertical-align:top;" width="69" height="69" /> 
+<p>中国政府网<br><a href="http://www.gov.cn/foot/2014-02/18/content_2611908.htm" target="_blank">微博、微信</a></p></div><!-- GWD SHARE BEGIN 页面右侧浮动分享-->
+<div style="position:relative;float:right;">
+        <div id="gwdShare_win_2">
+            <div id="gwdShare_con_2" style="display:none;height:51px;">
+                <div class="gwdshare_t gwds_tools_24 get-codes-gwdshare">
+                    <a href="#" class="gwds_weixin gwds_right_button" style="margin:-2px -1px 2px -1px;"></a>
+                    <a href="#" class="gwds_tsina gwds_right_button" style="margin:-2px -1px 2px -1px;"></a>
+                    <a href="#" class="gwds_tqq gwds_right_button" style="margin:-2px -1px 2px -1px;"></a>
+                    <span class="gwds_more gwds_right_more" style="width:80px;height:23px;background: url(/govweb/xhtml/images/public/gwdImg_more_rectangle.png) no-repeat -6px 0;margin-left:0px;">&nbsp;</span>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- GWD SHARE END --></div>
+<SCRIPT> 
+$(function(){
+$(".gov_weixin_share .closeBtn").click(function(){
+		$(".gov_weixin_share").hide();
+	})
+	/*Nav*/
+	$(".topNav").hover(function(){
+		//$(".topNav .menuCon").addClass("borSecond");
+	},function(){
+		$(".topNav .menuCon").removeClass("borSecond");
+		$(".topNav .menuList ul li").removeClass("selected");
+		$(".topNav .menuCon .subcon").hide();
+	})
+	$(".topNav .menuList ul li").hover(function(){
+		index = $(".topNav .menuList ul li").index(this);
+		$(this).addClass("selected").siblings().removeClass("selected");
+		$(".topNav .menuCon .subcon").eq(index).show().siblings().hide();	
+		$(".topNav .menuCon").addClass("borSecond");
+	})
+	//数据
+	$(".menus07 .reportList tr:even").attr({"bgcolor":"#e5e5e5","height":"32"});
+	$(".menus07 .reportList tr:odd").attr({"bgcolor":"#ffffff","height":"36"});
+	//右侧浮窗
+	function rigScroll(){
+		var winWidth=$(window).width();
+		if(winWidth<1024){
+			$(".gov_weixin_share").hide();
+		}else{		
+			var winRig=(winWidth-1005)/2-90;
+			$(".gov_weixin_share").css({"right":winRig,"display":"block"})
+		}
+	}
+	rigScroll()
+	$(window).scroll(function() {
+		rigScroll()
+	});
+ 
+	$(window).resize(function() {
+		rigScroll()
+	});	
+})
+ 
+</SCRIPT>
+<script type="text/javascript" src="/govweb/xhtml/js/gwdshareasync.min.js"></script>
+  <script type="text/javascript" src="/govweb/xhtml/js/gs.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+<!--底部结束-->
+<div style="display:none">
+<script type="text/javascript">document.write(unescape("%3Cscript src='http://stat.www.gov.cn/webdig.js?z=1' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script>
+</div>
+<script type="text/javascript">
+(function() {
+    var N = 100;
+    var P = 0.9;
+    var R = N * P;
+    var X = Math.floor(Math.random() * N);
+    if (R >= X) {
+        _atrk_opts = {
+            atrk_acct: "noGfn1aMp4107i",
+            domain: "www.gov.cn",
+            dynamic: true
+        }; 
+        (function() {
+            var as = document.createElement("script");
+            as.type = "text/javascript";
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName("script")[0];
+            var ns = document.createElement("noscript");
+            var img = document.createElement("img");
+            img.src ="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=noGfn1aMp4107i";
+            img.style="display:none";
+            img.height = 1;
+            img.width = 1;
+            img.alt = "";
+            s.parentNode.insertBefore(as, s);
+            s.parentNode.insertBefore(ns, s);
+            var nso = document.getElementsByTagName("noscript")[0];
+            nso.appendChild(img);
+        })();
+    }
+})();
+</script>
+</body> </body>
+</html>
